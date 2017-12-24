@@ -26,6 +26,8 @@ public class Application {
 		springApplication.setBannerMode(Mode.OFF);
 		/** 运行 */
 		springApplication.run(args);
+		
+		System.out.println("hello world");
 	
 	}
 }
